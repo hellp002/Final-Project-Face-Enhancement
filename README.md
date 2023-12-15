@@ -1,4 +1,4 @@
-# Final-Project-Face-Enhancement
+![image](https://github.com/hellp002/Final-Project-Face-Enhancement/assets/94524977/5221f745-0302-4ff8-8f8e-904343549184)# Final-Project-Face-Enhancement
 Final Project for image processing 1/2023
 Member:
 - Werapat Wangrungroj
@@ -16,9 +16,14 @@ Encoder | Weights | Params,M
 --- | --- | ---
 resnext101_32x48d | instagram | 826M
 
+## Process in Our Method
+
+![image](https://github.com/hellp002/Final-Project-Face-Enhancement/assets/94524977/bd943348-f759-46e2-8852-09b0260ee3d3)
+![image](https://github.com/hellp002/Final-Project-Face-Enhancement/assets/94524977/29ed89a1-7aa0-44d0-bc5d-0652709778e9)
+
 ## How to use our method
 
-การ enhancement ใบหน้าเราจำเป็นต้องรัน code ใน [file](eval_model.ipynb) โดยต้อง run code cell จนถึงบรรทัดสุดท้าย และเราจึงจะสามารถเรียกใช้
+การ enhancement ใบหน้าเราจำเป็นต้องรัน code ใน [file](eval_model.ipynb) ที่สามารถ run ได้ใน google colab โดยต้อง run code cell จนถึงบรรทัดสุดท้าย และเราจึงจะสามารถเรียกใช้
 
 ```python
 enhancer(image)
@@ -45,6 +50,7 @@ with torch.no_grad():
 [dlib model](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
 [Medium](https://medium.com/@werapatwangrungroj/face-enhancement-ด้วย-semantic-segmentation-model-และ-facial-landmark-detection-model-2a8c1381b1a8)
 [Data Label App](https://imagej.net/ij/download.html)
+[Slide Presentation](Face%20Enhancement.pdf)
 
 
  
