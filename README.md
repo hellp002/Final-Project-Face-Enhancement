@@ -41,7 +41,7 @@ with torch.no_grad():
 [train/dev/test set for unet](https://drive.google.com/uc?export=download&id=1XOBoRGSraP50_pS1YPB8_i8Wmw_5L-NG) <br>
 [data set that we used](https://www.kaggle.com/datasets/ashwingupta3012/human-faces) <br>
 [data set for testing our model](https://drive.google.com/uc?export=download&id=1WeP0mTjUDBt2Zx4JWO0U0xf15jwpsr6V) <br>
-[data set for testing (facial mask)] (https://drive.google.com/uc?export=download&id=1-sr6XByGYKRdIDuS3MjAWCBnhX1_OnGG) <br>
+[data set for testing (facial mask)](https://drive.google.com/uc?export=download&id=1-sr6XByGYKRdIDuS3MjAWCBnhX1_OnGG) <br>
 [data set for testing (face mask)](https://drive.google.com/uc?export=download&id=1K0QTK_GSyai5vNwMgaO3Kh54n5w4Sjtx) <br>
 [Model](https://drive.google.com/uc?export=download&id=1_fdYp8trR7mMDWeqjHOhTASp4SQv7RSk) <br>
 [dlib model](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) <br>
