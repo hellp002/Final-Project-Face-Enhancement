@@ -17,10 +17,10 @@ Encoder | Weights | Params,M
 resnext101_32x48d | instagram | 826M
 
 ## Process in Our Method
-
-![image](https://github.com/hellp002/Final-Project-Face-Enhancement/assets/94524977/bd943348-f759-46e2-8852-09b0260ee3d3)
-![image](https://github.com/hellp002/Final-Project-Face-Enhancement/assets/94524977/29ed89a1-7aa0-44d0-bc5d-0652709778e9)
-
+<div style = "display: flex;">
+<img scr = "https://github.com/hellp002/Final-Project-Face-Enhancement/assets/94524977/bd943348-f759-46e2-8852-09b0260ee3d3">
+<img scr = "https://github.com/hellp002/Final-Project-Face-Enhancement/assets/94524977/29ed89a1-7aa0-44d0-bc5d-0652709778e9">
+</div>
 ## How to use our method
 
 การ enhancement ใบหน้าเราจำเป็นต้องรัน code ใน [file](eval_model.ipynb) ที่สามารถ run ได้ใน google colab โดยต้อง run code cell จนถึงบรรทัดสุดท้าย และเราจึงจะสามารถเรียกใช้
