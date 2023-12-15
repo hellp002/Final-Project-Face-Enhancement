@@ -13,5 +13,6 @@ Member:
 ## Architecture
 
 Encoder | Weights | Params,M
+--- | --- | ---
 resnext101_32x48d | instagram | 826M
  
