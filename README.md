@@ -40,6 +40,7 @@ with torch.no_grad():
 ## Data set for training reference:
 
 Dataset: [Dataset github](https://github.com/JDAI-CV/lapa-dataset)
+
 Dataset paper: [A New Dataset and Boundary-Attention Semantic Segmentation for Face Parsing](https://aaai.org/ojs/index.php/AAAI/article/view/6832/6686). Yinglu Liu, Hailin Shi, Hao Shen, Yue Si, Xiaobo Wang, Tao Mei. In AAAI, 2020.
 
 ## Link and Assets
