@@ -40,13 +40,7 @@ with torch.no_grad():
 ## Data set for training reference:
 
 Dataset: [Dataset github](https://github.com/JDAI-CV/lapa-dataset)
-Dataset paper: @inproceedings{liu2020new,  
-  title={A New Dataset and Boundary-Attention Semantic Segmentation for Face Parsing.},  
-  author={Liu, Yinglu and Shi, Hailin and Shen, Hao and Si, Yue and Wang, Xiaobo and Mei, Tao},  
-  booktitle={AAAI},  
-  pages={11637--11644},  
-  year={2020}  
-}
+Dataset paper: [A New Dataset and Boundary-Attention Semantic Segmentation for Face Parsing](https://aaai.org/ojs/index.php/AAAI/article/view/6832/6686). Yinglu Liu, Hailin Shi, Hao Shen, Yue Si, Xiaobo Wang, Tao Mei. In AAAI, 2020.
 
 ## Link and Assets
 [train/dev/test set for unet](https://drive.google.com/uc?export=download&id=1XOBoRGSraP50_pS1YPB8_i8Wmw_5L-NG) <br>
