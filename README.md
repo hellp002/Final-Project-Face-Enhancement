@@ -37,6 +37,17 @@ with torch.no_grad():
 
 เพื่อเปลี่ยน model เป็น mode evaluation จะเป็นการเพิ่ม accuracy ให้ model
 
+## Data set for training reference:
+
+Dataset: [Dataset github](https://github.com/JDAI-CV/lapa-dataset)
+Dataset paper: @inproceedings{liu2020new,  
+  title={A New Dataset and Boundary-Attention Semantic Segmentation for Face Parsing.},  
+  author={Liu, Yinglu and Shi, Hailin and Shen, Hao and Si, Yue and Wang, Xiaobo and Mei, Tao},  
+  booktitle={AAAI},  
+  pages={11637--11644},  
+  year={2020}  
+}
+
 ## Link and Assets
 [train/dev/test set for unet](https://drive.google.com/uc?export=download&id=1XOBoRGSraP50_pS1YPB8_i8Wmw_5L-NG) <br>
 [data set that we used](https://www.kaggle.com/datasets/ashwingupta3012/human-faces) <br>
