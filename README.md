@@ -37,7 +37,7 @@ with torch.no_grad():
 
 เพื่อเปลี่ยน model เป็น mode evaluation จะเป็นการเพิ่ม accuracy ให้ model
 
-## Data set for training reference:
+## reference for Dataset:
 
 Dataset: [Dataset github](https://github.com/JDAI-CV/lapa-dataset)
 
